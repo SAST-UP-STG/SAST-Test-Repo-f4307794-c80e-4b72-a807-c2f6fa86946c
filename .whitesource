@@ -29,7 +29,7 @@
     "enableRemediation": false,
     "enableSecretsScan": false,
     "incrementalScan": true,
-    "snippetSize": 5,
+    "snippetSize": 1,
     "baseBranches": [
       "dev",
       "main"
